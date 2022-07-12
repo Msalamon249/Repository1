@@ -1,2 +1,3 @@
 chleb 2.50
 jajo 0.60
+maka 2.15
